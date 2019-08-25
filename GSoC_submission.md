@@ -23,6 +23,7 @@ Implemented **Core Joomla APIs**:
 * com_config
 * com_contact
 * com_content
+* com_contenthistory
 * com_fields
 * com_installer
 * com_languages
@@ -51,7 +52,7 @@ Code: [Pull request](https://github.com/joomla-extensions/weblinks/pull/407)
 **Instructions for implementing the component** have been created and you can find them [here](https://docs.joomla.org/J4.x:Adding_an_API_to_a_Joomla_Component).
 
 ## More Work
-We covered almost all the components we wanted! But three webservices remained in the work: com_finder, com_contenthistory, com_media.
+We covered almost all the components we wanted! But three webservices remained in the work: com_finder, com_media.
 
 To the additional task that was associated with the entity level, we did not have enough time to design a solution for it in full.
 
