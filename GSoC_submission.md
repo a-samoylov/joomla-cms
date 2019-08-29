@@ -9,7 +9,7 @@ This project is a continuation of the implementation of webservices in Joomla. W
   CMS, because it will help create very functional and complex integrations with sites made on Joomla.
 
 ## Work done
-You can vew the **specification** of the project [here](https://github.com/joomla-projects/gsoc19_webservices/blob/master/manual/en-US/gsoc-2019/specification.md).
+You can view the **specification** of the project [here](https://github.com/joomla-projects/gsoc19_webservices/blob/master/manual/en-US/gsoc-2019/specification.md).
 
 The work I have done on this project consists of: implementing **API layers for core Joomla components** and
  **documentation**, plus the implementation of **API for Weblinks extension** and the **guideline** on how to implement it.
